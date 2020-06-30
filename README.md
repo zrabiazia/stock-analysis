@@ -1,2 +1,2 @@
 # stock-analysis
-this repo contains the stock analysis data for challemge assignment 2
+this repo contains the stock analysis data for challenge assignment 2
