@@ -20,14 +20,21 @@ Steve wants to do little more research for his parents and wants to expand the d
  
 •	Created 3 header rows for Ticker, Total Daily Volume and Return to show results
 •	Set Arrays for Ticker and ticker index
+
+![ticker](https://user-images.githubusercontent.com/67460581/105125704-48562280-5a9a-11eb-88e4-f7d6b7858c56.png)
+
  
 •	To Calculate the Ticker volume, Ticker Starting price and Ticker Ending price used a nested loop 
 
 ![ticker2](https://user-images.githubusercontent.com/67460581/105125406-83a42180-5a99-11eb-8081-7eb4e3d9ba98.png)
 
 •	To show results from 2018 and 2017 dataset to All Stocks Analysis used the loop 
+
+![results](https://user-images.githubusercontent.com/67460581/105125709-48eeb900-5a9a-11eb-8fa8-52af03e75c3d.png)
  
 •	Using formatting functions to show the positive return in green color and negative in red color
+
+![formatting](https://user-images.githubusercontent.com/67460581/105125708-48eeb900-5a9a-11eb-81dc-56abdb032ee3.png)
 
  
 •	A message box to show elapsed time for both data sets
