@@ -24,7 +24,10 @@ Steve wants to do little more research for his parents and wants to expand the d
 
  
 •	A message box to show elapsed time for both data sets
- 
+
+![VBA_Challenge_2017](https://user-images.githubusercontent.com/67460581/105124411-59516480-5a97-11eb-83f3-59e3119f06f0.png)
+
+![VBA_Challenge_2018](https://user-images.githubusercontent.com/67460581/105124405-56ef0a80-5a97-11eb-9599-898c341701f4.png)
  
 
 ## Summary:
