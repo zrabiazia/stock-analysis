@@ -1,5 +1,3 @@
-# stock-analysis
-this repo contains the stock analysis data for challenge assignment 2
 # All Stocks Analysis
 ## Overview:
 Steve wants to do little more research for his parents and wants to expand the data set to include the entire stock market over the last few years. In order to help Steve, will refactor the code by nesting loops and editing to make the code more efficient, taking less time to process and easier to use in the future.
