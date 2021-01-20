@@ -1,2 +1,36 @@
 # stock-analysis
 this repo contains the stock analysis data for challenge assignment 2
+# All Stocks Analysis
+## Overview:
+Steve wants to do little more research for his parents and wants to expand the data set to include the entire stock market over the last few years. In order to help Steve, will refactor the code by nesting loops and editing to make the code more efficient, taking less time to process and easier to use in the future.
+
+## Results:
+
+
+•	The outcome for 2017 for All stocks Analysis
+ 
+
+•	The Outcome for 2018 All Stocks Analysis
+ 
+•	Input Box to run analysis for 2017 and 2018
+ 
+•	Created 3 header rows for Ticker, Total Daily Volume and Return to show results
+•	Set Arrays for Ticker and ticker index
+ 
+•	To Calculate the Ticker volume, Ticker Starting price and Ticker Ending price used a nested loop 
+ 
+
+•	To show results from 2018 and 2017 dataset to All Stocks Analysis used the loop 
+ 
+•	Using formatting functions to show the positive return in green color and negative in red color
+
+ 
+•	A message box to show elapsed time for both data sets
+ 
+ 
+
+## Summary:
+
+•	Refactoring Advantage includes improving code to read easily, faster and cleaner. On the other hand, the disadvantage is greater risk to create more errors to debug.
+•	The code refactoring for All Stocks Analysis had made script shorter, run time smaller , easier to read the results and less complicated but there were a lot of run  time and compiling errors to tackle for the script to work.
+
