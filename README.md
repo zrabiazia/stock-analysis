@@ -7,16 +7,23 @@ Steve wants to do little more research for his parents and wants to expand the d
 
 •	The outcome for 2017 for All stocks Analysis
  
+![2017](https://user-images.githubusercontent.com/67460581/105125368-71c27e80-5a99-11eb-97d2-221137058e32.png)
 
 •	The Outcome for 2018 All Stocks Analysis
  
+![2018](https://user-images.githubusercontent.com/67460581/105125374-75560580-5a99-11eb-8c47-082835e44a6d.png)
+
 •	Input Box to run analysis for 2017 and 2018
+
+![inputbox](https://user-images.githubusercontent.com/67460581/105125399-80a93100-5a99-11eb-8dca-0636c5d01023.PNG)
+
  
 •	Created 3 header rows for Ticker, Total Daily Volume and Return to show results
 •	Set Arrays for Ticker and ticker index
  
 •	To Calculate the Ticker volume, Ticker Starting price and Ticker Ending price used a nested loop 
- 
+
+![ticker2](https://user-images.githubusercontent.com/67460581/105125406-83a42180-5a99-11eb-8081-7eb4e3d9ba98.png)
 
 •	To show results from 2018 and 2017 dataset to All Stocks Analysis used the loop 
  
