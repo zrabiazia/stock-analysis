@@ -47,5 +47,6 @@ Steve wants to do little more research for his parents and wants to expand the d
 ## Summary:
 
 •	Refactoring Advantage includes improving code to read easily, faster and cleaner. On the other hand, the disadvantage is greater risk to create more errors to debug.
+
 •	The code refactoring for All Stocks Analysis had made script shorter, run time smaller , easier to read the results and less complicated but there were a lot of run  time and compiling errors to tackle for the script to work.
 
